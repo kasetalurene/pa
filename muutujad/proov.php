@@ -1,5 +1,12 @@
 <?php
 
+/*
+    PHP Muutujad
+    Rene Kasetalu
+    Tartu KHK
+    02.10.2019
+*/
+
 $nimi = 'Rene';
 $sugu = 'mees';
 $vanus = 39;

@@ -32,6 +32,12 @@
 
 <?php
 
+/*
+    PHP Operaatorid
+    Rene Kasetalu
+    Tartu KHK
+*/
+
 //muutujad
 $x=8;
 $y=2;

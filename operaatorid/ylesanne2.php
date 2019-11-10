@@ -1,6 +1,3 @@
-
-
-
 <!doctype html>
 <html lang="et">
 <head>
@@ -35,6 +32,12 @@
 
 
 <?php
+
+/*
+    PHP Operaatorid
+    Rene Kasetalu
+    Tartu KHK
+*/
 
 //muutujad
 $x=3;

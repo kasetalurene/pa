@@ -1,4 +1,11 @@
 <?php
+
+/*
+    PHP Tsüklid
+    Rene Kasetalu
+    Tartu KHK
+*/
+
 //ridade veerdued max
 $ridadeArv =7;
 $veergudeArv = 7;
