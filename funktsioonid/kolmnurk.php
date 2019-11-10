@@ -11,4 +11,5 @@ function arvuta ($a, $b){
     return "Külg C on " .$c.".";
 }
 echo arvuta(5,3);
+
 ?>

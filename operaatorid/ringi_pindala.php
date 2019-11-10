@@ -16,3 +16,5 @@ echo 'Ringi raadius = '.$ringiRaadius.'<br>';
 printf('Ringi pindala = %.3f<br>', $ringiPindala);
 //echo 'Ringi ümbermõõt = '.$ringiUmbermoot.'<br>';
 printf('Ringi ümbermõõt = %.3f<br>', $ringiUmbermoot);
+
+?>

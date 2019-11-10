@@ -24,3 +24,5 @@ for ($reaNR = 1; $reaNR <= $ridadeArv; $reaNR++){
     echo '<br>';
 
 }
+
+?>

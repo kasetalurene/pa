@@ -25,3 +25,4 @@ function taringuvise() {
     echo rand(1,6);
 }
 
+?>

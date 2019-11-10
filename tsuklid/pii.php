@@ -21,3 +21,5 @@ while($kord <= $kordMax) {
 $pi = $summa * 4;
 echo $pi.'<br>';
 echo pi();
+
+?>

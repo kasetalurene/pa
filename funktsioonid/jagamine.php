@@ -34,3 +34,5 @@ if( isset($_GET['submit']) ) {
     } else { if( isset($vastus) ) echo $vastus;
     }
 }
+
+?>

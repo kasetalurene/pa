@@ -20,3 +20,5 @@ for($reaNumber = 1; $reaNumber <= $ridadeArv; $reaNumber++) {
         }
     echo '<br>';
 }
+
+?>

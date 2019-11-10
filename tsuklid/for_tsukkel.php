@@ -13,3 +13,5 @@ for($paaris=1; $paaris < 11; $paaris++){
         echo $paaris;
     }
 }
+
+?>
